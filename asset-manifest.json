@@ -1,16 +1,25 @@
 {
   "files": {
     "main.css": "/reactportfolio/static/css/main.f9b37943.css",
-    "main.js": "/reactportfolio/static/js/main.94c3bfbb.js",
+    "main.js": "/reactportfolio/static/js/main.f875c3b0.js",
+    "static/media/sodertalje.jpg": "/reactportfolio/static/media/sodertalje.f3d607f342f0fd64b312.jpg",
+    "static/media/dream.png": "/reactportfolio/static/media/dream.fba4ba42a534ed67c13a.png",
+    "static/media/swim.png": "/reactportfolio/static/media/swim.daa6aace754290897021.png",
+    "static/media/piggies.png": "/reactportfolio/static/media/piggies.ec1c4eb9673146e60b43.png",
     "static/media/MarvinVisionsBig-Bold.woff": "/reactportfolio/static/media/MarvinVisionsBig-Bold.22125ec8f9664b273933.woff",
+    "static/media/zatasnickarn.png": "/reactportfolio/static/media/zatasnickarn.26c8826f5c1379a723a1.png",
     "static/media/MarvinVisionsBig-Bold.woff2": "/reactportfolio/static/media/MarvinVisionsBig-Bold.63fd5c536aead1066906.woff2",
+    "static/media/hambo.png": "/reactportfolio/static/media/hambo.3441ddac59825991bcdc.png",
+    "static/media/smiley.svg": "/reactportfolio/static/media/smiley.a313b281ed59b582292f41f5d23021de.svg",
+    "static/media/dribbble.svg": "/reactportfolio/static/media/dribbble.907f7eb4ce7da479159981c9081787ad.svg",
     "index.html": "/reactportfolio/index.html",
     "static/media/github.svg": "/reactportfolio/static/media/github.ad8c43975c320fc29bf3e4046e8ca137.svg",
+    "static/media/linkedin.svg": "/reactportfolio/static/media/linkedin.14c035cad27e0b59cd646fb6b323236a.svg",
     "main.f9b37943.css.map": "/reactportfolio/static/css/main.f9b37943.css.map",
-    "main.94c3bfbb.js.map": "/reactportfolio/static/js/main.94c3bfbb.js.map"
+    "main.f875c3b0.js.map": "/reactportfolio/static/js/main.f875c3b0.js.map"
   },
   "entrypoints": [
     "static/css/main.f9b37943.css",
-    "static/js/main.94c3bfbb.js"
+    "static/js/main.f875c3b0.js"
   ]
 }
