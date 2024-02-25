@@ -1,13 +1,114 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+:root {
+  --clr-primary: #ffdd7e;
+  --clr-black: #0e1111;
+  --clr-accent: grey;
+  /* --clr-secondary:
+    --clr-alert: */
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.center {
+  margin: auto;
+}
+
+@font-face {
+  font-family: "Marvin Visions";
+  font-style: bold;
+  src: url("./assets/fonts/MarvinVisionsBig-Bold.woff2") format("woff2"),
+    url("./assets/fonts/MarvinVisionsBig-Bold.woff") format("woff");
+}
+
+img {
+  max-width: 100%;
+}
+
+#page-container {
+  position: relative;
+  min-height: 100vh; 
+}
+
+#content-wrap {
+  padding-bottom: 200px;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  height: 100vh;
+}
+
+#bg {
+  background-size: 100% 100%;
+  background-position: 0px 0px;
+  background-image: linear-gradient(0deg, #a6c3a1ff 0%, #b7e5b4 100%);
+}
+
+
+
+main {
+  width: 85%;
+  margin: 4em auto 8em auto;
+}
+
+h1 {
+  font-family: "Marvin Visions", sans-serif;
+  font-size: 3rem;
+  line-height: 1;
+  margin: 0.4 0;
+}
+
+.hero {
+  text-align: center;
+  margin: 3em;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  margin: 1em;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  margin: 1em;
+}
+
+.social-icons img {
+  padding: 0.3em;
+}
+
+
+@media only screen and (min-width: 480px) {
+  .card {
+    width: 260px;
+    height: 260px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .card {
+    transition: top ease 0.05s;
+  }
+
+  .card:hover {
+    top: -5px;
+    cursor: pointer;
+  }
+
+  .title-wrapper {
+    margin: 5em;
+  }
+
+  .title-wrapper p {
+    font-size: 1.5rem;
+    margin: 1em;
+  }
+
+  h1 {
+    font-size: 5rem;
+  }
+
 }

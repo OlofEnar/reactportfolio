@@ -1,0 +1,92 @@
+{
+  "education": [
+    {
+      "id":"1",
+      "title": "Systemutvecklare .NET",
+      "place": "Edugrade Yrkeshögskola",
+      "period": "2023-2025"
+    },
+    {
+      "id":"2",
+      "title": "Hållbart skogsbruk",
+      "place": "Linnéuniversitetet",
+      "period": "2020-2021"
+    },
+    {
+      "id":"3",
+      "title": "Diploma in Graphic Design",
+      "place": "BAU, Escuela de Diseño, Barcelona",
+      "period": "2011-2013"
+    },
+    {
+      "id":"4",
+      "title": "Sound engineering",
+      "place": "Islington Music Workshop, London",
+      "period": "2006-2007"
+    },
+    {
+      "id":"5",
+      "title": "Logik A",
+      "place": "Uppsala universitet",
+      "period": "2003-2004"
+    },
+    {
+      "id":"6",
+      "title": "Teoretisk filosofi A",
+      "place": "Uppsala universitet",
+      "period": "2003-2004"
+    },
+    {
+      "id":"7",
+      "title": "Samhälls-vetenskapliga",
+      "place": "Slottegymnasiet, Ljusdal",
+      "period": "1999-2002"
+    }
+  ],
+
+  "jobs": 
+  [
+    {
+      "id":"1",
+      "title": "Hantverkare",
+      "place": "Zätasnickar'n",
+      "period": "2022-2023"
+    },
+    {
+      "id":"2",
+      "title": "Hantverkare",
+      "place": "Byggde vårat hus",
+      "period": "2021-2022"
+    },
+    {
+      "id":"3",
+      "title": "Skogsvårdare",
+      "place": "Enars skogsbruk",
+      "period": "1999-*"
+    },
+    {
+      "id":"4",
+      "title": "Grafisk designer",
+      "place": "Frilans",
+      "period": "2013-*"
+    },
+    {
+      "id":"5",
+      "title": "Grafisk designer",
+      "place": "QUAD design & techbyrå, Stockholm",
+      "period": "2015-2021"
+    },
+    {
+      "id":"6",
+      "title": "Grafisk designer",
+      "place": "Taylor James Productions, London",
+      "period": "2009-2011"
+    },
+    {
+      "id":"7",
+      "title": "Servitör",
+      "place": "Browns Covent Garden, London",
+      "period": "2006-2009"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+    "design": [
+        {
+            "id": "1",
+            "category": "DESIGN",
+            "title": "For fun",
+            "cover": "swim.png"
+        },
+        {
+            "id": "2",
+            "category": "DESIGN",
+            "title": "Södertälje kommun",
+            "cover": "sodertalje.jpg"
+        },
+        {
+            "id": "3",
+            "category": "DESIGN",
+            "title": "Hälsingehambon",
+            "cover": "hambo.png"
+        },
+        {
+            "id": "4",
+            "category": "DESIGN",
+            "title": "Albert",
+            "cover": "albert.png"
+        },
+        {
+            "id": "5",
+            "category": "DESIGN",
+            "title": "Zätasnickarn",
+            "cover": "zatasnickarn.png"
+        },
+        {
+            "id": "6",
+            "category": "DESIGN",
+            "title": "Simplify change",
+            "cover": "simplify.png"
+        },
+        {
+            "id": "7",
+            "category": "DESIGN",
+            "title": "For fun",
+            "cover": "dream.png"
+        },
+        {
+            "id": "8",
+            "category": "DESIGN",
+            "title": "For fun",
+            "cover": "piggies.png"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+/* CONTACT page */
+
+.form {
+    margin: 2.5em 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .form_container {
+    padding: 3em;
+    background: white;
+    border-radius: none;
+    margin: 5em auto;
+    max-width: 500px;
+  }
+  
+  input,
+  textarea {
+    width: 100%;
+    margin: 0.5em 0;
+    padding: 0.5em;
+    box-sizing: border-box;
+  }
+  
+  textarea {
+    min-height: 15vh;
+  }
+  
+  label {
+    margin: 1em 0;
+    font-size: 0.75em;
+  }
+  
+  .form_items {
+    box-sizing: border-box;
+    margin: 0.5em 0;
+  }
+  
+  .button {
+    outline: 0;
+    border: 0;
+    background-image: linear-gradient(to right, #e052a0, #f15c41);
+    border-radius: 2px;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+    height: 36px;
+    line-height: 36px;
+    padding: 0 10px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+
+  @media only screen and (min-width: 768px) {
+    .form_container {
+      border-radius: 15px;
+    }
+  }

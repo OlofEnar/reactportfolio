@@ -1,0 +1,131 @@
+
+  
+  /* CV page */
+  
+  .resume-container {
+    width: 100%;
+  }
+  
+  .resume-container .fa {
+    padding: 0 0.5em;
+  }
+  
+  .academic-container {
+    display: none;
+  }
+  
+  .job-info {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    line-height: 1.5em;
+  }
+  
+  .work-period {
+    margin: 0 0 1em 0;
+  }
+  
+  .work-info {
+    display: none;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  .table-categories {
+    display: none;
+  }
+  
+  .btn-container {
+    height: 60px;
+    width: 300px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    top: -60px;
+    left: 0;
+  }
+  
+  .btn-container a {
+    color: var(--clr-black);
+  }
+  
+  .btn-text-only {
+    color: var(--clr-black);
+    background-color: transparent;
+    border-width: 0;
+    font-family: inherit;
+    font-size: inherit;
+    font-style: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+    padding: 0;
+    cursor: pointer;
+  }
+  
+  .slider-container {
+    width: 300px;
+    height: 60px;
+    margin: 3em auto;
+  }
+  
+  .slider {
+    height: 60px;
+    width: 138px;
+    border-radius: 50px;
+    background: var(--clr-primary);
+    position: relative;
+    top: 0;
+    left: 0;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+  }
+  
+  .moveslider {
+    left: 150px;
+  }
+  
+  .hide-section {
+    display: none;
+  }
+  
+  .show-section {
+    display: block;
+  }
+
+  @media only screen and (min-width: 480px) {
+
+  }
+  
+  @media only screen and (min-width: 768px) {
+
+    .resume-container {
+      width: 70%;
+      margin: auto;
+    }
+  
+    .job-info {
+      display: grid;
+      grid-template-columns: 2fr 2fr 1fr;
+      gap: 1em;
+    }
+  
+    .work-info {
+      display: block;
+    }
+  
+    .work-period {
+      text-align: end;
+    }
+  
+    .table-categories {
+      display: grid;
+      font-weight: bold;
+    }
+  
+    .resume-container .fa {
+      display: none;
+    }
+  }
