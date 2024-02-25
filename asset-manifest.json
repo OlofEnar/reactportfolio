@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reactportfolio/static/css/main.1ecbf6dc.css",
-    "main.js": "/reactportfolio/static/js/main.810381d1.js",
+    "main.js": "/reactportfolio/static/js/main.ade74cc5.js",
     "static/media/MarvinVisionsBig-Bold.woff": "/reactportfolio/static/media/MarvinVisionsBig-Bold.22125ec8f9664b273933.woff",
     "static/media/MarvinVisionsBig-Bold.woff2": "/reactportfolio/static/media/MarvinVisionsBig-Bold.63fd5c536aead1066906.woff2",
     "index.html": "/reactportfolio/index.html",
     "main.1ecbf6dc.css.map": "/reactportfolio/static/css/main.1ecbf6dc.css.map",
-    "main.810381d1.js.map": "/reactportfolio/static/js/main.810381d1.js.map"
+    "main.ade74cc5.js.map": "/reactportfolio/static/js/main.ade74cc5.js.map"
   },
   "entrypoints": [
     "static/css/main.1ecbf6dc.css",
-    "static/js/main.810381d1.js"
+    "static/js/main.ade74cc5.js"
   ]
 }
